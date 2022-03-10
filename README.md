@@ -41,12 +41,18 @@ Below are the steps performed to find number of retirement-age employees per tit
 
 * Below is the final output data of retiring employees per title -
 
+![d2_1](https://user-images.githubusercontent.com/92698873/157768950-71baab59-e870-4f09-92e7-ec1110f01df5.png)
 
-* From the results, there are 90398 employees comes under silver tsunami list.
+* From the results, there are 72,458 employees comes under silver tsunami list.
+
 
 * As the list seems to be huge, we can further break down by sorting the retiring employees based on the department and the list can be sent to each department managers and they can decide on next steps.
-     * For the Department - Quality Management, we have total of 6136 retiring employees
-     * For the Department - Marketing, we have total of 6047 retiring employees
+     * For the Department - Quality Management, we have total of 4865 retiring employees
+
+![qualitymanaq](https://user-images.githubusercontent.com/92698873/157769153-fb3db22a-15d0-4141-bef2-7f8820d4d6ef.png)
+
+![qualitymanaqcount](https://user-images.githubusercontent.com/92698873/157769283-71de9f95-9371-4814-b0c0-ccc556fc56a4.png)
+
      * This can be repeated for other departments 
 
 ![Department list](https://user-images.githubusercontent.com/92698873/157735139-08462ce5-c6ad-4e66-a189-d28a6e879c06.png)
@@ -54,6 +60,10 @@ Below are the steps performed to find number of retirement-age employees per tit
 ### Mentorship program eligiblity :
 
 * Below query used for getting title count of employees eligible for mentorship program.
+
+![Screenshot 2021-12-11 210430](https://user-images.githubusercontent.com/92698873/157769439-170fa117-ce5c-461f-99a8-d630bedd7cc8.png)
+![D3_1](https://user-images.githubusercontent.com/92698873/157769488-b19c087b-88be-4f1e-81ee-64c549727211.png)
+
 
 From this data we can check if the company needs the position to be replaced/promote by current employee or it needs a new recruit.Once they have a replacement for the current employee, they can start the mentorship program.
      
