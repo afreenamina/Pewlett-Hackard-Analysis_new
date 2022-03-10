@@ -17,10 +17,15 @@ Below are the steps performed to find number of retirement-age employees per tit
 * First we will get the number of retirement-age employees by filtering the data by Birthdate of employees who were born between 1952 and 1955.
   Below is the SQL code to retrieve the data -
   
+  ![1](https://user-images.githubusercontent.com/92698873/157734254-19d029fd-c4e9-4543-8eeb-efc9820d5c71.png)
+  
 * As some employees have multiple titles in our data, to get the latest title of each employee, we use DISTINCT ON in SQL query.
+
+![2](https://user-images.githubusercontent.com/92698873/157734339-e1bda52f-7998-4a46-a296-e65da79a9867.png)
 
 * COUNT() and GROUP BY function is used to find the number of retirement-age employees by there title.
 
+![3](https://user-images.githubusercontent.com/92698873/157734386-8ce9e353-f020-4bd3-bb96-2da7c47bd34a.png)
 
 ### Mentorship program eligiblity :
 
@@ -28,6 +33,7 @@ Below are the steps performed to find number of retirement-age employees per tit
 
 * Below is the SQL code for the query.
 
+![d2](https://user-images.githubusercontent.com/92698873/157734844-16af2ba3-4974-4534-9ac0-3c971443674c.png)
 
 ##Summary: 
 
@@ -42,6 +48,8 @@ Below are the steps performed to find number of retirement-age employees per tit
      * For the Department - Quality Management, we have total of 6136 retiring employees
      * For the Department - Marketing, we have total of 6047 retiring employees
      * This can be repeated for other departments 
+
+![Department list](https://user-images.githubusercontent.com/92698873/157735139-08462ce5-c6ad-4e66-a189-d28a6e879c06.png)
 
 ### Mentorship program eligiblity :
 
